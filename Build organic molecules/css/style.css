@@ -1,0 +1,145 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+canvas {
+  display: block;
+}
+
+*
+{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+ 	{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxK.woff2") format("woff2");
+    }
+    
+/*    @font-face
+    {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmWUlfBBc4.woff2") format("woff2");
+    }*/
+
+
+      /**/
+    @font-face
+    {
+        font-family: 'MathJexItalic';
+        font-style: normal;
+        /*font-weight: 800;*/
+        src: url("../font/MathJax_Main-Italic.otf") ;
+    }
+
+    @font-face
+    {
+        font-family: 'LatoBold';
+        font-style: normal;
+        /*font-weight: 800;*/
+        src: url("../font/Lato-Bold.ttf") ;
+    }
+@font-face
+    {
+        font-family: 'MathJexReg';
+        font-style: normal;
+        font-weight: 400;
+        src: url("../font/MathJax_Main-Regular.otf") ;
+    }    
+@font-face
+    {
+        font-family: 'RobotoMedium';
+        font-style: normal;
+        font-weight: 400;
+        src: url("../font/Roboto-Medium.ttf") ;
+    }
+@font-face
+    {
+        font-family: 'RobotoBold';
+        font-style: normal;
+        font-weight: 400;
+        src: url("../font/Roboto-Bold.ttf") ;
+    }    
+
+@font-face{
+    font-family: 'RobotoRegular';
+    src: url('../font/Roboto-Regular.ttf');
+}
+
+@font-face{
+    font-family: 'Roboto-Regular';
+    src: url('../font/Roboto-Regular.ttf');
+}
+
+
+
+*
+{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#inst-div{
+    background-image: url(./../img/instruction.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    display: none;
+    margin: 0px;
+    padding: 0px;
+    z-index: 10;
+}
+
+#reset-btn-inst{
+    background-image: url(./../img/reset.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    z-index: 1;
+}
+
+#instclosecss{
+    background-image: url(./../img/instclose.png);
+    background-repeat: no-repeat;
+    /*background-color: red;*/
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+#numbers{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    z-index: 1;
+    font-family: "Roboto-Regular";
+    color: #12a7db;
+    line-height: 1.7;
+}
+
+img {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+}
+.MathJax:focus, .mjx-chtml:focus, .MathJax_SVG:focus {
+   outline: none !important;
+}

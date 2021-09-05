@@ -1,0 +1,255 @@
+{
+  "name": "H",
+  "ID": 15,
+  "parent": null,
+  "connected_bond": [
+    "b5"
+  ],
+  "connected_bond_id": [
+    12
+  ],
+  "connected_bond_angle": [
+    0
+  ],
+  "connected_atom": [
+    {
+      "name": "C",
+      "ID": 0,
+      "parent": null,
+      "connected_bond": [
+        "b5",
+        "b1",
+        "b1"
+      ],
+      "connected_bond_id": [
+        0,
+        3,
+        4
+      ],
+      "connected_bond_angle": [
+        0,
+        6,
+        2
+      ],
+      "connected_atom": [
+        {
+          "name": "C",
+          "ID": 1,
+          "parent": null,
+          "connected_bond": [
+            "b5",
+            "b1",
+            "b1"
+          ],
+          "connected_bond_id": [
+            1,
+            5,
+            6
+          ],
+          "connected_bond_angle": [
+            0,
+            6,
+            2
+          ],
+          "connected_atom": [
+            {
+              "name": "C",
+              "ID": 2,
+              "parent": null,
+              "connected_bond": [
+                "b5",
+                "b1",
+                "b1"
+              ],
+              "connected_bond_id": [
+                2,
+                7,
+                10
+              ],
+              "connected_bond_angle": [
+                0,
+                6,
+                2
+              ],
+              "connected_atom": [
+                {
+                  "name": "C",
+                  "ID": 3,
+                  "parent": null,
+                  "connected_bond": [
+                    "b1",
+                    "b1",
+                    "b5"
+                  ],
+                  "connected_bond_id": [
+                    8,
+                    9,
+                    11
+                  ],
+                  "connected_bond_angle": [
+                    6,
+                    2,
+                    0
+                  ],
+                  "connected_atom": [
+                    {
+                      "name": "H",
+                      "ID": 8,
+                      "parent": null,
+                      "connected_bond": [],
+                      "connected_bond_id": [],
+                      "connected_bond_angle": [],
+                      "connected_atom": [],
+                      "connected_atom_id": []
+                    },
+                    {
+                      "name": "H",
+                      "ID": 10,
+                      "parent": null,
+                      "connected_bond": [],
+                      "connected_bond_id": [],
+                      "connected_bond_angle": [],
+                      "connected_atom": [],
+                      "connected_atom_id": []
+                    },
+                    {
+                      "name": "H",
+                      "ID": 9,
+                      "parent": null,
+                      "connected_bond": [],
+                      "connected_bond_id": [],
+                      "connected_bond_angle": [],
+                      "connected_atom": [],
+                      "connected_atom_id": []
+                    }
+                  ],
+                  "connected_atom_id": [
+                    8,
+                    10,
+                    9
+                  ]
+                },
+                {
+                  "name": "O",
+                  "ID": 4,
+                  "parent": null,
+                  "connected_bond": [
+                    "b1"
+                  ],
+                  "connected_bond_id": [
+                    13
+                  ],
+                  "connected_bond_angle": [
+                    6
+                  ],
+                  "connected_atom": [
+                    {
+                      "name": "H",
+                      "ID": 6,
+                      "parent": null,
+                      "connected_bond": [],
+                      "connected_bond_id": [],
+                      "connected_bond_angle": [],
+                      "connected_atom": [],
+                      "connected_atom_id": []
+                    }
+                  ],
+                  "connected_atom_id": [
+                    6
+                  ]
+                },
+                {
+                  "name": "H",
+                  "ID": 11,
+                  "parent": null,
+                  "connected_bond": [],
+                  "connected_bond_id": [],
+                  "connected_bond_angle": [],
+                  "connected_atom": [],
+                  "connected_atom_id": []
+                }
+              ],
+              "connected_atom_id": [
+                3,
+                4,
+                11
+              ]
+            },
+            {
+              "name": "O",
+              "ID": 5,
+              "parent": null,
+              "connected_bond": [
+                "b1"
+              ],
+              "connected_bond_id": [
+                14
+              ],
+              "connected_bond_angle": [
+                6
+              ],
+              "connected_atom": [
+                {
+                  "name": "H",
+                  "ID": 7,
+                  "parent": null,
+                  "connected_bond": [],
+                  "connected_bond_id": [],
+                  "connected_bond_angle": [],
+                  "connected_atom": [],
+                  "connected_atom_id": []
+                }
+              ],
+              "connected_atom_id": [
+                7
+              ]
+            },
+            {
+              "name": "H",
+              "ID": 12,
+              "parent": null,
+              "connected_bond": [],
+              "connected_bond_id": [],
+              "connected_bond_angle": [],
+              "connected_atom": [],
+              "connected_atom_id": []
+            }
+          ],
+          "connected_atom_id": [
+            2,
+            5,
+            12
+          ]
+        },
+        {
+          "name": "H",
+          "ID": 14,
+          "parent": null,
+          "connected_bond": [],
+          "connected_bond_id": [],
+          "connected_bond_angle": [],
+          "connected_atom": [],
+          "connected_atom_id": []
+        },
+        {
+          "name": "H",
+          "ID": 13,
+          "parent": null,
+          "connected_bond": [],
+          "connected_bond_id": [],
+          "connected_bond_angle": [],
+          "connected_atom": [],
+          "connected_atom_id": []
+        }
+      ],
+      "connected_atom_id": [
+        1,
+        14,
+        13
+      ]
+    }
+  ],
+  "connected_atom_id": [
+    0
+  ]
+}

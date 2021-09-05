@@ -1,0 +1,76 @@
+{
+  "name": "Cl",
+  "ID": 4,
+  "parent": 0,
+  "connected_bond": [
+    "b5"
+  ],
+  "connected_bond_id": [
+    3
+  ],
+  "connected_bond_angle": [
+    0
+  ],
+  "connected_atom": [
+    {
+      "name": "C",
+      "ID": 0,
+      "parent": null,
+      "connected_bond": [
+        "b1",
+        "b1",
+        "b5"
+      ],
+      "connected_bond_id": [
+        0,
+        1,
+        2
+      ],
+      "connected_bond_angle": [
+        6,
+        2,
+        0
+      ],
+      "connected_atom": [
+        {
+          "name": "Cl",
+          "ID": 1,
+          "parent": null,
+          "connected_bond": [],
+          "connected_bond_id": [],
+          "connected_bond_angle": [],
+          "connected_atom": [],
+          "connected_atom_id": []
+        },
+        {
+          "name": "Cl",
+          "ID": 3,
+          "parent": null,
+          "connected_bond": [],
+          "connected_bond_id": [],
+          "connected_bond_angle": [],
+          "connected_atom": [],
+          "connected_atom_id": []
+        },
+        {
+          "name": "Cl",
+          "ID": 2,
+          "parent": null,
+          "connected_bond": [],
+          "connected_bond_id": [],
+          "connected_bond_angle": [],
+          "connected_atom": [],
+          "connected_atom_id": []
+        }
+      ],
+      "connected_atom_id": [
+        1,
+        3,
+        2
+      ]
+    }
+  ],
+  "connected_atom_id": [
+    0
+  ]
+}
